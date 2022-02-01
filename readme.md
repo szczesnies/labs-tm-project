@@ -1,7 +1,6 @@
 # Projekt z Techniki Mikroprocesorowej
 
 Wykorzystanie minrokontrolera Atmega328 do odczytu temperatury i wilgoci otoczenia
-![img](./hardware/zd3.jpg)
 
 # Założenie projektu
 Odczyt temperatury i wilgoci przy użyciu mikrokontrolera AVR ATmega328 
@@ -15,5 +14,6 @@ Odczyt temperatury i wilgoci przy użyciu mikrokontrolera AVR ATmega328
 #
 ![img](./hardware/zd1.jpg)
 ![img](./hardware/zd2.jpg)
+![img](./hardware/zd3.jpg)
 ![img](./hardware/zd4.jpg)
 
